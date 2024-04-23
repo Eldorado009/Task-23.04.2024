@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\bin\Debug\net8.0\BlogApp.Inrastructure.deps.json
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\bin\Debug\net8.0\BlogApp.Inrastructure.dll
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\bin\Debug\net8.0\BlogApp.Inrastructure.pdb
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\BlogApp.Inrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\BlogApp.Inrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\BlogApp.Inrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\BlogApp.Inrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\BlogApp.Inrastructure.dll
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\refint\BlogApp.Inrastructure.dll
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\BlogApp.Inrastructure.pdb
+C:\Users\user\source\repos\BlogApp\src\Infrastructure\BlogApp.Inrastructure\obj\Debug\net8.0\ref\BlogApp.Inrastructure.dll
